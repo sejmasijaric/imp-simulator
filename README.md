@@ -39,6 +39,8 @@ initial scope. Confirm acceptance criteria with the supervisors at kickoff.
 
 ## Documents
 
+- [Project plan presentation](presentation/project-plan.html): the proposed factory design, implementation work packages, and evaluation protocol. Open in a browser.
+
 - [Nikola's scope proposal](docs/scope-proposal.md): suggested decisions and rationale.
 - [Design](docs/design.md): initial structure, timing, migration, and evaluation.
 - [Kickoff presentation](presentation/kickoff.html): download and open in a browser.
